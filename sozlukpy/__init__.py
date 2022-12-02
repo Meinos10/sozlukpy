@@ -1,6 +1,9 @@
+# Coder ReWoxi
+
+# https://github.com/Meinos10/sozlukpy
+
 import requests as req
 
-# https://sozluk.gov.tr/gts?ara=
 class Sozluk():
     header = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
     url = "https://sozluk.gov.tr/gts?ara="
@@ -39,11 +42,3 @@ class Sozluk():
             except KeyError:
                 pass
         return text
-    
-    #def degers(self, kelime: str):
-    #    header = self.header
-    #    url = self.url
-    #    deger = req.get(url+str(kelime.lower()), headers=header).json()
-    #    if deger == {"error":"Sonuç bulunamadı"}:
-    #        return deger["error"]
-    #    return json.dump(deger, open(f"{kelime}.json", "w", encoding="utf-8"), indent=4)
