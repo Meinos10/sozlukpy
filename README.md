@@ -58,4 +58,4 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-[Telegram](t.me/ReWoxi) - [Github](github.com/Meinos10) - Discord: ```emree#0010```
+[Telegram](https://t.me/ReWoxi) - [Github](https://github.com/Meinos10) - Discord: ```emree#0010```
