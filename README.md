@@ -1,4 +1,4 @@
-# sozlukpy
+# [sozlukpy](https://pypi.org/project/sozlukpy/) 
 
 A basic Turkish dictionary
 
