@@ -6,7 +6,7 @@ A basic Turkish dictionary
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
+```python
 pip install -U sozlukpy
 ```
 
