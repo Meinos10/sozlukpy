@@ -2,6 +2,14 @@
 
 A basic Turkish dictionary
 
+</br>
+
+![PyPI](https://img.shields.io/pypi/v/sozlukpy?color=yellow&logo=python&logoColor=cyan&style=for-the-badge)
+</br>
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/sozlukpy?label=%C4%B0nd%C4%B0rme&logo=python&style=for-the-badge)
+</br>
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
